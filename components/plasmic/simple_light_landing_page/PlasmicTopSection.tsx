@@ -94,7 +94,7 @@ function PlasmicTopSection__RenderFunc(props: {
                 sty.freeBox__gnPzR
               )}
             >
-              {"Make yours website"}
+              {"Nuevo sitio web"}
             </div>
 
             <div

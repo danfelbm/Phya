@@ -1,0 +1,84 @@
+.root:global(.__wab_instance) {
+  position: relative;
+}
+.freeBox__r3VQr {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+}
+.freeBox___105Uo {
+  display: flex;
+  flex-direction: column;
+}
+.freeBox___105Uo > :global(.__wab_flex-container) {
+  flex-direction: column;
+  justify-content: center;
+  margin-top: calc(0px - 8px);
+  height: calc(100% + 8px);
+}
+.freeBox___105Uo > :global(.__wab_flex-container) > *,
+.freeBox___105Uo > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox___105Uo > :global(.__wab_flex-container) > picture > img,
+.freeBox___105Uo
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 8px;
+}
+.slotName {
+  font-size: 18px;
+  font-weight: 700;
+  text-align: center;
+  color: rgb(5, 5, 5) /* plasmic-token: NEon4Y--Z */;
+}
+.freeBox__bxJvj {
+  font-size: 48px;
+}
+.freeBox__eKVbF {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+.freeBox__eKVbF > :global(.__wab_flex-container) {
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  margin-top: calc(0px - 8px);
+  height: calc(100% + 8px);
+}
+.freeBox__eKVbF > :global(.__wab_flex-container) > *,
+.freeBox__eKVbF > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox__eKVbF > :global(.__wab_flex-container) > picture > img,
+.freeBox__eKVbF
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 8px;
+}
+.bullet___4Cugw:global(.__wab_instance) {
+  position: relative;
+}
+.bullet__hEh9L:global(.__wab_instance) {
+  position: relative;
+}
+.bullet__oRzYn:global(.__wab_instance) {
+  position: relative;
+}
+.freeBox__mJkhg {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  margin-top: calc(13px + 8px) !important;
+}
+.svg__ptVmc {
+  width: 16px;
+  height: 16px;
+  position: relative;
+  object-fit: cover;
+}
